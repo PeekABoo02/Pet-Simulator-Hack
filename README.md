@@ -1,5 +1,5 @@
 # Pet-Simulator-Hack
-Next week new update coming, included the pet sim x adder! Stay  tuned.
+Update huges are going to be in my extension, be ready! 
 
 With this extension you can add pets to yourself on Pet Simulator 99 ! NOT WORKING ON PET SIM X
 
